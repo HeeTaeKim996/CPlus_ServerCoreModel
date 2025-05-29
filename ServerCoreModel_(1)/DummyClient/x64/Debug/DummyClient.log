@@ -1,0 +1,5 @@
+﻿  DummyClient.cpp
+C:\Users\Heetae\source\repos\Portfolio_UnityGame\(1)ServerCoreModel\DummyClient\DummyClient.cpp(98,1): warning C4102: 'Room': 참조되지 않은 레이블입니다.
+  (소스 파일 '/DummyClient.cpp'을(를) 컴파일하는 중)
+  
+  DummyClient.vcxproj -> C:\Users\Heetae\source\repos\Portfolio_UnityGame\(1)ServerCoreModel\Binary\Debug\DummyClient.exe
