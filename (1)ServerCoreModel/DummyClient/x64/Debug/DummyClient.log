@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  DummyClient.cpp
+C:\Users\Heetae\source\repos\Portfolio_UnityGame\(1)ServerCoreModel\DummyClient\DummyClient.cpp(98,1): warning C4102: 'Room': 참조되지 않은 레이블입니다.
+  (소스 파일 '/DummyClient.cpp'을(를) 컴파일하는 중)
+  
+  ServerPacketHandler.cpp
+C:\Users\Heetae\source\repos\Portfolio_UnityGame\(1)ServerCoreModel\DummyClient\ServerPacketHandler.cpp(37,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  (소스 파일 '/ServerPacketHandler.cpp'을(를) 컴파일하는 중)
+  
+  ServerSession.cpp
+  코드를 생성하고 있습니다...
+  DummyClient.vcxproj -> C:\Users\Heetae\source\repos\Portfolio_UnityGame\(1)ServerCoreModel\Binary\Debug\DummyClient.exe
