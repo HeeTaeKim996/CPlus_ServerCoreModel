@@ -1,400 +1,399 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\",
+  "WorkspaceRootPath": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\FlatBufferReader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\FlatBufferReader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BD628F8-2DC8-4910-A1A7-56B848B822B3}|CSharpSampleServer\\CSharpSampleServer.csproj|c:\\users\\heetae\\source\\repos\\portfolio_unitygame\\(1)servercoremodel\\csharpsampleserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BD628F8-2DC8-4910-A1A7-56B848B822B3}|CSharpSampleServer\\CSharpSampleServer.csproj|solutionrelative:csharpsampleserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91CBA536-663E-4549-9334-2485EB043082}|DummyClient\\DummyClient.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\DummyClient\\DummyClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{91CBA536-663E-4549-9334-2485EB043082}|DummyClient\\DummyClient.vcxproj|solutionrelative:DummyClient\\DummyClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\ClientPacketHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\ClientPacketHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BD628F8-2DC8-4910-A1A7-56B848B822B3}|CSharpSampleServer\\CSharpSampleServer.csproj|c:\\users\\heetae\\source\\repos\\portfolio_unitygame\\(1)servercoremodel\\csharpsampleserver\\serversession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BD628F8-2DC8-4910-A1A7-56B848B822B3}|CSharpSampleServer\\CSharpSampleServer.csproj|solutionrelative:csharpsampleserver\\serversession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\ClientPacketHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\ClientPacketHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\ClientPacketHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|c:\\users\\heetae\\source\\repos\\portfolio_unitygame\\(1)servercoremodel\\csharpservercore\\cpacketbuffermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|solutionrelative:csharpservercore\\cpacketbuffermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|c:\\users\\heetae\\source\\repos\\portfolio_unitygame\\(1)servercoremodel\\csharpservercore\\cusertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|solutionrelative:csharpservercore\\cusertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|c:\\users\\heetae\\source\\repos\\portfolio_unitygame\\(1)servercoremodel\\csharpservercore\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|solutionrelative:csharpservercore\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|c:\\users\\heetae\\source\\repos\\portfolio_unitygame\\(1)servercoremodel\\csharpservercore\\cpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|solutionrelative:csharpservercore\\cpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91CBA536-663E-4549-9334-2485EB043082}|DummyClient\\DummyClient.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\DummyClient\\ServerPacketHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{91CBA536-663E-4549-9334-2485EB043082}|DummyClient\\DummyClient.vcxproj|solutionrelative:DummyClient\\ServerPacketHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Protocol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\Protocol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91CBA536-663E-4549-9334-2485EB043082}|DummyClient\\DummyClient.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\DummyClient\\ServerPacketHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{91CBA536-663E-4549-9334-2485EB043082}|DummyClient\\DummyClient.vcxproj|solutionrelative:DummyClient\\ServerPacketHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\LockQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\LockQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\CorePch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\CorePch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\LockQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\LockQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|c:\\users\\heetae\\source\\repos\\portfolio_unitygame\\(1)servercoremodel\\csharpservercore\\tcpmsgresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|solutionrelative:csharpservercore\\tcpmsgresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Session.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\Session.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|c:\\users\\heetae\\source\\repos\\portfolio_unitygame\\(1)servercoremodel\\csharpservercore\\staticvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|solutionrelative:csharpservercore\\staticvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|c:\\users\\heetae\\source\\repos\\portfolio_unitygame\\(1)servercoremodel\\csharpservercore\\constbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|solutionrelative:csharpservercore\\constbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Session.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\Session.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\Service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\FlatBufferReader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\FlatBufferReader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\FlatBufferWriter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\FlatBufferWriter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\SERVERCORE\\FLATBUFFERWRITER.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:SERVERCORE\\FLATBUFFERWRITER.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|c:\\users\\heetae\\source\\repos\\portfolio_unitygame\\(1)servercoremodel\\csharpservercore\\csharpservercore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|solutionrelative:csharpservercore\\csharpservercore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\Room.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\Room.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\ClientSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\ClientSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\ClientSessionManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\ClientSessionManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\ClientSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\ClientSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\ClientSessionManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\ClientSessionManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\Lobby.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\Lobby.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\Lobby.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\Lobby.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\Room.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\Room.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\Room.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\IocpCore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\IocpCore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2BD628F8-2DC8-4910-A1A7-56B848B822B3}|CSharpSampleServer\\CSharpSampleServer.csproj|c:\\users\\heetae\\source\\repos\\flyingmokey\\(1)servercoremodel\\csharpsampleserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD628F8-2DC8-4910-A1A7-56B848B822B3}|CSharpSampleServer\\CSharpSampleServer.csproj|solutionrelative:csharpsampleserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\ThreadManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\ThreadManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\Lobby.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\Lobby.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91CBA536-663E-4549-9334-2485EB043082}|DummyClient\\DummyClient.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\DummyClient\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{91CBA536-663E-4549-9334-2485EB043082}|DummyClient\\DummyClient.vcxproj|solutionrelative:DummyClient\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\Lobby.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\Lobby.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\GameServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Protocol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\Protocol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|c:\\users\\heetae\\source\\repos\\flyingmokey\\(1)servercoremodel\\csharpservercore\\protocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|solutionrelative:csharpservercore\\protocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|c:\\users\\heetae\\source\\repos\\flyingmokey\\(1)servercoremodel\\csharpservercore\\cpacketbuffermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|solutionrelative:csharpservercore\\cpacketbuffermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\GameServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\GameServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\JobTimer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\Room.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\Room.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\ClientSessionManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\ClientSessionManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\ClientSessionManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\ClientSessionManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\ClientPacketHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\ClientPacketHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\FlatBufferReader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\FlatBufferReader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CBA536-663E-4549-9334-2485EB043082}|DummyClient\\DummyClient.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\DummyClient\\DummyClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91CBA536-663E-4549-9334-2485EB043082}|DummyClient\\DummyClient.vcxproj|solutionrelative:DummyClient\\DummyClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD628F8-2DC8-4910-A1A7-56B848B822B3}|CSharpSampleServer\\CSharpSampleServer.csproj|c:\\users\\heetae\\source\\repos\\flyingmokey\\(1)servercoremodel\\csharpsampleserver\\serversession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD628F8-2DC8-4910-A1A7-56B848B822B3}|CSharpSampleServer\\CSharpSampleServer.csproj|solutionrelative:csharpsampleserver\\serversession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|c:\\users\\heetae\\source\\repos\\flyingmokey\\(1)servercoremodel\\csharpservercore\\cusertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|solutionrelative:csharpservercore\\cusertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|c:\\users\\heetae\\source\\repos\\flyingmokey\\(1)servercoremodel\\csharpservercore\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|solutionrelative:csharpservercore\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|c:\\users\\heetae\\source\\repos\\flyingmokey\\(1)servercoremodel\\csharpservercore\\cpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|solutionrelative:csharpservercore\\cpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CBA536-663E-4549-9334-2485EB043082}|DummyClient\\DummyClient.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\DummyClient\\ServerPacketHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91CBA536-663E-4549-9334-2485EB043082}|DummyClient\\DummyClient.vcxproj|solutionrelative:DummyClient\\ServerPacketHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CBA536-663E-4549-9334-2485EB043082}|DummyClient\\DummyClient.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\DummyClient\\ServerPacketHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91CBA536-663E-4549-9334-2485EB043082}|DummyClient\\DummyClient.vcxproj|solutionrelative:DummyClient\\ServerPacketHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\LockQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\LockQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\CorePch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\CorePch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\LockQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\LockQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|c:\\users\\heetae\\source\\repos\\flyingmokey\\(1)servercoremodel\\csharpservercore\\tcpmsgresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|solutionrelative:csharpservercore\\tcpmsgresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Session.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\Session.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|c:\\users\\heetae\\source\\repos\\flyingmokey\\(1)servercoremodel\\csharpservercore\\staticvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|solutionrelative:csharpservercore\\staticvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|c:\\users\\heetae\\source\\repos\\flyingmokey\\(1)servercoremodel\\csharpservercore\\constbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|solutionrelative:csharpservercore\\constbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Session.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\Session.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\Service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\FlatBufferReader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\FlatBufferReader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\FlatBufferWriter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\FlatBufferWriter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\SERVERCORE\\FLATBUFFERWRITER.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:SERVERCORE\\FLATBUFFERWRITER.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|c:\\users\\heetae\\source\\repos\\flyingmokey\\(1)servercoremodel\\csharpservercore\\csharpservercore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|solutionrelative:csharpservercore\\csharpservercore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\ClientSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\ClientSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\ClientSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\ClientSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\IocpCore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\IocpCore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\ThreadManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\ThreadManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CBA536-663E-4549-9334-2485EB043082}|DummyClient\\DummyClient.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\DummyClient\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91CBA536-663E-4549-9334-2485EB043082}|DummyClient\\DummyClient.vcxproj|solutionrelative:DummyClient\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\JobTimer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\JobTimer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91CBA536-663E-4549-9334-2485EB043082}|DummyClient\\DummyClient.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\DummyClient\\ServerSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{91CBA536-663E-4549-9334-2485EB043082}|DummyClient\\DummyClient.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\DummyClient\\ServerSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{91CBA536-663E-4549-9334-2485EB043082}|DummyClient\\DummyClient.vcxproj|solutionrelative:DummyClient\\ServerSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91CBA536-663E-4549-9334-2485EB043082}|DummyClient\\DummyClient.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\DummyClient\\ServerSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{91CBA536-663E-4549-9334-2485EB043082}|DummyClient\\DummyClient.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\DummyClient\\ServerSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{91CBA536-663E-4549-9334-2485EB043082}|DummyClient\\DummyClient.vcxproj|solutionrelative:DummyClient\\ServerSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\JobQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\JobQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\JobQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\x64\\gshandlereh4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91CBA536-663E-4549-9334-2485EB043082}|DummyClient\\DummyClient.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\DummyClient\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{91CBA536-663E-4549-9334-2485EB043082}|DummyClient\\DummyClient.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\DummyClient\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{91CBA536-663E-4549-9334-2485EB043082}|DummyClient\\DummyClient.vcxproj|solutionrelative:DummyClient\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{44D1E7B1-AAFC-4218-BAFB-E7C362C5F00F}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\DBConnectionPool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\DBConnectionPool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\DBConnectionPool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\DBConnectionPool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\DBConnectionPool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\DBConnectionPool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\DBConnection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\DBConnection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\DBConnection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\DBConnection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\DBConnection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\DBConnection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\SendBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\SendBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\SendBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\SendBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\SendBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\SendBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\DBBind.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\DBBind.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\DBBind.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\DBBind.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\DBBind.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\DBBind.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\SERVERCORE\\TYPES.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\SERVERCORE\\TYPES.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:SERVERCORE\\TYPES.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\GlobalQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\GlobalQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\GlobalQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\JobTimer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\JobTimer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\JobTimer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\GlobalQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\GlobalQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\GlobalQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Job.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Job.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\Job.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\CoreTLS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\CoreTLS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\CoreTLS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Job.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Job.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\Job.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Allocator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Allocator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\Allocator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\SocketUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\SocketUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\SocketUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\SocketUtils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\SocketUtils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\SocketUtils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\RecvBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\RecvBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\RecvBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\RecvBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\RecvBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\RecvBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\NetAddress.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\NetAddress.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\NetAddress.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\NetAddress.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\NetAddress.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\NetAddress.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Listener.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Listener.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\Listener.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Listener.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Listener.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\Listener.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\IocpEvent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\IocpEvent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\IocpEvent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\IocpEvent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\IocpEvent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\IocpEvent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\IocpCore.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\IocpCore.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\IocpCore.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Memory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Memory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\Memory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Memory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Memory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\Memory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\CoreGlobal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\CoreGlobal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\CoreGlobal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\RefCounting.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\RefCounting.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\RefCounting.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\SERVERCORE\\CONTAINER.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\SERVERCORE\\CONTAINER.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:SERVERCORE\\CONTAINER.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\ThreadManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\ThreadManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\ThreadManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Lock.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Lock.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\Lock.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Lock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Lock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\Lock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\DeadLockProfiler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\DeadLockProfiler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\DeadLockProfiler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\DeadLockProfiler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\DeadLockProfiler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\DeadLockProfiler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\CoreMacro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\CoreMacro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\CoreMacro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\CoreGlobal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\CoreGlobal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\CoreGlobal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\MemoryPool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\MemoryPool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\MemoryPool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Allocator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Allocator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\Allocator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\MemoryPool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\MemoryPool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\MemoryPool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\RefCounting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\RefCounting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\RefCounting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\TypeCast.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\TypeCast.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\TypeCast.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\CorePch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\CorePch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\CorePch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\CoreTLS.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\CoreTLS.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\CoreTLS.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\SERVERCORE\\JOBQUEUE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\SERVERCORE\\JOBQUEUE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C8B6ED2-AF08-474A-93FA-957698E49F76}|ServerCore\\ServerCore.vcxproj|solutionrelative:SERVERCORE\\JOBQUEUE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|c:\\users\\heetae\\source\\repos\\portfolio_unitygame\\(1)servercoremodel\\csharpservercore\\protocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC7D9952-AB0E-4778-97E6-BA44AC1A432F}|CSharpServerCore\\CSharpServerCore.csproj|solutionrelative:csharpservercore\\protocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpServerCore\\ServerSession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpServerCore\\ServerSession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpServerCore\\ServerSession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -404,89 +403,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 213,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ServerPacketHandler.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\DummyClient\\ServerPacketHandler.cpp",
-              "RelativeDocumentMoniker": "DummyClient\\ServerPacketHandler.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\DummyClient\\ServerPacketHandler.cpp",
-              "RelativeToolTip": "DummyClient\\ServerPacketHandler.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-20T06:50:41.573Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DummyClient.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\DummyClient\\DummyClient.cpp",
-              "RelativeDocumentMoniker": "DummyClient\\DummyClient.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\DummyClient\\DummyClient.cpp",
-              "RelativeToolTip": "DummyClient\\DummyClient.cpp",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAgwG0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-20T10:33:41.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Session.cs",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpServerCore\\Session.cs",
-              "RelativeDocumentMoniker": "CSharpServerCore\\Session.cs",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpServerCore\\Session.cs",
-              "RelativeToolTip": "CSharpServerCore\\Session.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T06:49:31.553Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FlatBufferReader.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\FlatBufferReader.h",
-              "RelativeDocumentMoniker": "ServerCore\\FlatBufferReader.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\FlatBufferReader.h",
-              "RelativeToolTip": "ServerCore\\FlatBufferReader.h",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAlwEkAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Lobby.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\Lobby.h",
+              "RelativeDocumentMoniker": "GameServer\\Lobby.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\Lobby.h",
+              "RelativeToolTip": "GameServer\\Lobby.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-27T07:44:59.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T01:54:31.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClientPacketHandler.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\ClientPacketHandler.h",
-              "RelativeDocumentMoniker": "GameServer\\ClientPacketHandler.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\ClientPacketHandler.h",
-              "RelativeToolTip": "GameServer\\ClientPacketHandler.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-24T02:48:14.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ServerPacketHandler.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\DummyClient\\ServerPacketHandler.h",
-              "RelativeDocumentMoniker": "DummyClient\\ServerPacketHandler.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\DummyClient\\ServerPacketHandler.h",
-              "RelativeToolTip": "DummyClient\\ServerPacketHandler.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-29T02:05:21.183Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "Protocol.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Protocol.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Protocol.h",
               "RelativeDocumentMoniker": "ServerCore\\Protocol.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Protocol.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Protocol.h",
               "RelativeToolTip": "ServerCore\\Protocol.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -494,71 +431,60 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CorePch.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\CorePch.h",
-              "RelativeDocumentMoniker": "ServerCore\\CorePch.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\CorePch.h",
-              "RelativeToolTip": "ServerCore\\CorePch.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAIAwwCgAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "ClientPacketHandler.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\ClientPacketHandler.h",
+              "RelativeDocumentMoniker": "GameServer\\ClientPacketHandler.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\ClientPacketHandler.h",
+              "RelativeToolTip": "GameServer\\ClientPacketHandler.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-22T01:45:03.858Z"
+              "WhenOpened": "2025-05-24T02:48:14.58Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LockQueue.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\LockQueue.h",
-              "RelativeDocumentMoniker": "ServerCore\\LockQueue.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\LockQueue.h",
-              "RelativeToolTip": "ServerCore\\LockQueue.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-28T02:17:11.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 6,
               "Title": "Protocol.cs",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpServerCore\\Protocol.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\CSharpServerCore\\Protocol.cs",
               "RelativeDocumentMoniker": "CSharpServerCore\\Protocol.cs",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpServerCore\\Protocol.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\CSharpServerCore\\Protocol.cs",
               "RelativeToolTip": "CSharpServerCore\\Protocol.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T05:43:54.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Session.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Session.h",
-              "RelativeDocumentMoniker": "ServerCore\\Session.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Session.h",
-              "RelativeToolTip": "ServerCore\\Session.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Room.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\Room.h",
+              "RelativeDocumentMoniker": "GameServer\\Room.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\Room.h",
+              "RelativeToolTip": "GameServer\\Room.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-25T04:40:57.899Z"
+              "WhenOpened": "2025-05-24T02:58:24.003Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "FlatBufferWriter.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\FlatBufferWriter.h",
-              "RelativeDocumentMoniker": "ServerCore\\FlatBufferWriter.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\FlatBufferWriter.h",
-              "RelativeToolTip": "ServerCore\\FlatBufferWriter.h",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAgwC0AAAAMAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "FlatBufferReader.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\FlatBufferReader.h",
+              "RelativeDocumentMoniker": "ServerCore\\FlatBufferReader.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\FlatBufferReader.h",
+              "RelativeToolTip": "ServerCore\\FlatBufferReader.h",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAlwFYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-27T07:39:11.022Z"
+              "WhenOpened": "2025-05-27T07:44:59.757Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 11,
               "Title": "ClientSessionManager.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\ClientSessionManager.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\ClientSessionManager.h",
               "RelativeDocumentMoniker": "GameServer\\ClientSessionManager.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\ClientSessionManager.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\ClientSessionManager.h",
               "RelativeToolTip": "GameServer\\ClientSessionManager.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -566,11 +492,107 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\CSharpServerCore\\Session.cs",
+              "RelativeDocumentMoniker": "CSharpServerCore\\Session.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\CSharpServerCore\\Session.cs",
+              "RelativeToolTip": "CSharpServerCore\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:49:31.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DummyClient.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\DummyClient\\DummyClient.cpp",
+              "RelativeDocumentMoniker": "DummyClient\\DummyClient.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\DummyClient\\DummyClient.cpp",
+              "RelativeToolTip": "DummyClient\\DummyClient.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAgwG0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T10:33:41.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServerPacketHandler.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\DummyClient\\ServerPacketHandler.cpp",
+              "RelativeDocumentMoniker": "DummyClient\\ServerPacketHandler.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\DummyClient\\ServerPacketHandler.cpp",
+              "RelativeToolTip": "DummyClient\\ServerPacketHandler.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T06:50:41.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ServerPacketHandler.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\DummyClient\\ServerPacketHandler.h",
+              "RelativeDocumentMoniker": "DummyClient\\ServerPacketHandler.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\DummyClient\\ServerPacketHandler.h",
+              "RelativeToolTip": "DummyClient\\ServerPacketHandler.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-29T02:05:21.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CorePch.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\CorePch.h",
+              "RelativeDocumentMoniker": "ServerCore\\CorePch.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\CorePch.h",
+              "RelativeToolTip": "ServerCore\\CorePch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAwwCgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-22T01:45:03.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LockQueue.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\LockQueue.h",
+              "RelativeDocumentMoniker": "ServerCore\\LockQueue.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\LockQueue.h",
+              "RelativeToolTip": "ServerCore\\LockQueue.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T02:17:11.751Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 25,
+              "Title": "Session.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Session.h",
+              "RelativeDocumentMoniker": "ServerCore\\Session.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Session.h",
+              "RelativeToolTip": "ServerCore\\Session.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-25T04:40:57.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FlatBufferWriter.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\FlatBufferWriter.h",
+              "RelativeDocumentMoniker": "ServerCore\\FlatBufferWriter.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\FlatBufferWriter.h",
+              "RelativeToolTip": "ServerCore\\FlatBufferWriter.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T07:39:11.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "CSharpServerCore.csproj",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpServerCore\\CSharpServerCore.csproj",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\CSharpServerCore\\CSharpServerCore.csproj",
               "RelativeDocumentMoniker": "CSharpServerCore\\CSharpServerCore.csproj",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpServerCore\\CSharpServerCore.csproj",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\CSharpServerCore\\CSharpServerCore.csproj",
               "RelativeToolTip": "CSharpServerCore\\CSharpServerCore.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -578,11 +600,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "ClientSession.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\ClientSession.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\ClientSession.h",
               "RelativeDocumentMoniker": "GameServer\\ClientSession.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\ClientSession.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\ClientSession.h",
               "RelativeToolTip": "GameServer\\ClientSession.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -590,35 +612,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Room.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\Room.h",
-              "RelativeDocumentMoniker": "GameServer\\Room.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\Room.h",
-              "RelativeToolTip": "GameServer\\Room.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-24T02:58:24.003Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Lobby.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\Lobby.h",
-              "RelativeDocumentMoniker": "GameServer\\Lobby.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\Lobby.h",
-              "RelativeToolTip": "GameServer\\Lobby.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-29T01:54:31.633Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 97,
               "Title": "JobQueue.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\JobQueue.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\JobQueue.h",
               "RelativeDocumentMoniker": "ServerCore\\JobQueue.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\JobQueue.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\JobQueue.h",
               "RelativeToolTip": "ServerCore\\JobQueue.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -626,11 +624,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "ServerSession.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\DummyClient\\ServerSession.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\DummyClient\\ServerSession.h",
               "RelativeDocumentMoniker": "DummyClient\\ServerSession.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\DummyClient\\ServerSession.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\DummyClient\\ServerSession.h",
               "RelativeToolTip": "DummyClient\\ServerSession.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -638,11 +636,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "pch.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\DummyClient\\pch.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\DummyClient\\pch.h",
               "RelativeDocumentMoniker": "DummyClient\\pch.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\DummyClient\\pch.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\DummyClient\\pch.h",
               "RelativeToolTip": "DummyClient\\pch.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -650,11 +648,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "pch.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\pch.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\pch.h",
               "RelativeDocumentMoniker": "GameServer\\pch.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\pch.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\pch.h",
               "RelativeToolTip": "GameServer\\pch.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -662,11 +660,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "DBConnectionPool.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\DBConnectionPool.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\DBConnectionPool.h",
               "RelativeDocumentMoniker": "ServerCore\\DBConnectionPool.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\DBConnectionPool.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\DBConnectionPool.h",
               "RelativeToolTip": "ServerCore\\DBConnectionPool.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -674,11 +672,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "DBConnection.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\DBConnection.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\DBConnection.h",
               "RelativeDocumentMoniker": "ServerCore\\DBConnection.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\DBConnection.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\DBConnection.h",
               "RelativeToolTip": "ServerCore\\DBConnection.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -686,11 +684,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "SendBuffer.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\SendBuffer.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\SendBuffer.h",
               "RelativeDocumentMoniker": "ServerCore\\SendBuffer.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\SendBuffer.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\SendBuffer.h",
               "RelativeToolTip": "ServerCore\\SendBuffer.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -698,11 +696,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "Types.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Types.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Types.h",
               "RelativeDocumentMoniker": "ServerCore\\Types.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Types.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Types.h",
               "RelativeToolTip": "ServerCore\\Types.h",
               "ViewState": "AgIAAAUAAAAAAAAAAAAgwCwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -710,11 +708,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "JobTimer.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\JobTimer.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\JobTimer.h",
               "RelativeDocumentMoniker": "ServerCore\\JobTimer.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\JobTimer.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\JobTimer.h",
               "RelativeToolTip": "ServerCore\\JobTimer.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -722,11 +720,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "DBBind.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\DBBind.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\DBBind.h",
               "RelativeDocumentMoniker": "ServerCore\\DBBind.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\DBBind.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\DBBind.h",
               "RelativeToolTip": "ServerCore\\DBBind.h",
               "ViewState": "AgIAAC4AAAAAAAAAAAAwwEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -734,11 +732,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "GlobalQueue.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\GlobalQueue.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\GlobalQueue.h",
               "RelativeDocumentMoniker": "ServerCore\\GlobalQueue.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\GlobalQueue.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\GlobalQueue.h",
               "RelativeToolTip": "ServerCore\\GlobalQueue.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -746,11 +744,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 61,
               "Title": "Job.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Job.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Job.h",
               "RelativeDocumentMoniker": "ServerCore\\Job.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Job.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Job.h",
               "RelativeToolTip": "ServerCore\\Job.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -758,11 +756,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 66,
               "Title": "RecvBuffer.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\RecvBuffer.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\RecvBuffer.h",
               "RelativeDocumentMoniker": "ServerCore\\RecvBuffer.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\RecvBuffer.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\RecvBuffer.h",
               "RelativeToolTip": "ServerCore\\RecvBuffer.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -770,11 +768,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 68,
               "Title": "NetAddress.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\NetAddress.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\NetAddress.h",
               "RelativeDocumentMoniker": "ServerCore\\NetAddress.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\NetAddress.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\NetAddress.h",
               "RelativeToolTip": "ServerCore\\NetAddress.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -782,11 +780,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 65,
               "Title": "Service.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Service.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Service.h",
               "RelativeDocumentMoniker": "ServerCore\\Service.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Service.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Service.h",
               "RelativeToolTip": "ServerCore\\Service.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -794,11 +792,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 64,
               "Title": "SocketUtils.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\SocketUtils.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\SocketUtils.h",
               "RelativeDocumentMoniker": "ServerCore\\SocketUtils.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\SocketUtils.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\SocketUtils.h",
               "RelativeToolTip": "ServerCore\\SocketUtils.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -806,11 +804,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 70,
               "Title": "Listener.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Listener.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Listener.h",
               "RelativeDocumentMoniker": "ServerCore\\Listener.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Listener.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Listener.h",
               "RelativeToolTip": "ServerCore\\Listener.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -818,11 +816,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 72,
               "Title": "IocpEvent.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\IocpEvent.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\IocpEvent.h",
               "RelativeDocumentMoniker": "ServerCore\\IocpEvent.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\IocpEvent.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\IocpEvent.h",
               "RelativeToolTip": "ServerCore\\IocpEvent.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -830,11 +828,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 74,
               "Title": "IocpCore.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\IocpCore.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\IocpCore.h",
               "RelativeDocumentMoniker": "ServerCore\\IocpCore.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\IocpCore.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\IocpCore.h",
               "RelativeToolTip": "ServerCore\\IocpCore.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -842,11 +840,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 75,
               "Title": "Memory.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Memory.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Memory.h",
               "RelativeDocumentMoniker": "ServerCore\\Memory.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Memory.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Memory.h",
               "RelativeToolTip": "ServerCore\\Memory.h",
               "ViewState": "AgIAAAMAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -854,11 +852,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 79,
               "Title": "Container.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Container.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Container.h",
               "RelativeDocumentMoniker": "ServerCore\\Container.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Container.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Container.h",
               "RelativeToolTip": "ServerCore\\Container.h",
               "ViewState": "AgIAAAgAAAAAAAAAAAAgwC8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -866,11 +864,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 78,
               "Title": "RefCounting.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\RefCounting.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\RefCounting.h",
               "RelativeDocumentMoniker": "ServerCore\\RefCounting.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\RefCounting.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\RefCounting.h",
               "RelativeToolTip": "ServerCore\\RefCounting.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -878,11 +876,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 80,
               "Title": "ThreadManager.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\ThreadManager.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\ThreadManager.h",
               "RelativeDocumentMoniker": "ServerCore\\ThreadManager.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\ThreadManager.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\ThreadManager.h",
               "RelativeToolTip": "ServerCore\\ThreadManager.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -890,11 +888,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 81,
               "Title": "Lock.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Lock.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Lock.h",
               "RelativeDocumentMoniker": "ServerCore\\Lock.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Lock.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Lock.h",
               "RelativeToolTip": "ServerCore\\Lock.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -902,11 +900,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 83,
               "Title": "DeadLockProfiler.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\DeadLockProfiler.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\DeadLockProfiler.h",
               "RelativeDocumentMoniker": "ServerCore\\DeadLockProfiler.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\DeadLockProfiler.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\DeadLockProfiler.h",
               "RelativeToolTip": "ServerCore\\DeadLockProfiler.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -914,11 +912,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 85,
               "Title": "CoreMacro.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\CoreMacro.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\CoreMacro.h",
               "RelativeDocumentMoniker": "ServerCore\\CoreMacro.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\CoreMacro.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\CoreMacro.h",
               "RelativeToolTip": "ServerCore\\CoreMacro.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -926,11 +924,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 86,
               "Title": "CoreGlobal.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\CoreGlobal.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\CoreGlobal.h",
               "RelativeDocumentMoniker": "ServerCore\\CoreGlobal.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\CoreGlobal.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\CoreGlobal.h",
               "RelativeToolTip": "ServerCore\\CoreGlobal.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -938,11 +936,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 87,
               "Title": "MemoryPool.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\MemoryPool.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\MemoryPool.h",
               "RelativeDocumentMoniker": "ServerCore\\MemoryPool.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\MemoryPool.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\MemoryPool.h",
               "RelativeToolTip": "ServerCore\\MemoryPool.h",
               "ViewState": "AgIAAAMAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -950,11 +948,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 88,
               "Title": "Allocator.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Allocator.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Allocator.h",
               "RelativeDocumentMoniker": "ServerCore\\Allocator.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Allocator.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Allocator.h",
               "RelativeToolTip": "ServerCore\\Allocator.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -962,11 +960,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 91,
               "Title": "TypeCast.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\TypeCast.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\TypeCast.h",
               "RelativeDocumentMoniker": "ServerCore\\TypeCast.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\TypeCast.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\TypeCast.h",
               "RelativeToolTip": "ServerCore\\TypeCast.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -974,11 +972,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 92,
               "Title": "pch.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\pch.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\pch.h",
               "RelativeDocumentMoniker": "ServerCore\\pch.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\pch.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\pch.h",
               "RelativeToolTip": "ServerCore\\pch.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -986,7 +984,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 95,
               "Title": "vector",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector",
@@ -998,11 +996,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 96,
               "Title": "CoreTLS.h",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\CoreTLS.h",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\CoreTLS.h",
               "RelativeDocumentMoniker": "ServerCore\\CoreTLS.h",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\CoreTLS.h",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\CoreTLS.h",
               "RelativeToolTip": "ServerCore\\CoreTLS.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -1012,15 +1010,100 @@
         },
         {
           "DockedWidth": 187,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "Lobby.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\Lobby.cpp",
+              "RelativeDocumentMoniker": "GameServer\\Lobby.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\Lobby.cpp",
+              "RelativeToolTip": "GameServer\\Lobby.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-29T01:54:38.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientSessionManager.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\ClientSessionManager.cpp",
+              "RelativeDocumentMoniker": "GameServer\\ClientSessionManager.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\ClientSessionManager.cpp",
+              "RelativeToolTip": "GameServer\\ClientSessionManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-24T02:41:32.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\CSharpSampleServer\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpSampleServer\\Program.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\CSharpSampleServer\\Program.cs",
+              "RelativeToolTip": "CSharpSampleServer\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:45:01.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientPacketHandler.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\ClientPacketHandler.cpp",
+              "RelativeDocumentMoniker": "GameServer\\ClientPacketHandler.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\ClientPacketHandler.cpp",
+              "RelativeToolTip": "GameServer\\ClientPacketHandler.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T06:07:58.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CPacketBufferManager.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\CSharpServerCore\\CPacketBufferManager.cs",
+              "RelativeDocumentMoniker": "CSharpServerCore\\CPacketBufferManager.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\CSharpServerCore\\CPacketBufferManager.cs",
+              "RelativeToolTip": "CSharpServerCore\\CPacketBufferManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:30:39.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameServer.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\GameServer.cpp",
+              "RelativeDocumentMoniker": "GameServer\\GameServer.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\GameServer.cpp",
+              "RelativeToolTip": "GameServer\\GameServer.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAANAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T01:21:19.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Room.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\Room.cpp",
+              "RelativeDocumentMoniker": "GameServer\\Room.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\Room.cpp",
+              "RelativeToolTip": "GameServer\\Room.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-24T02:57:44.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ServerSession.cs",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpSampleServer\\ServerSession.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\CSharpSampleServer\\ServerSession.cs",
               "RelativeDocumentMoniker": "CSharpSampleServer\\ServerSession.cs",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpSampleServer\\ServerSession.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\CSharpSampleServer\\ServerSession.cs",
               "RelativeToolTip": "CSharpSampleServer\\ServerSession.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwBkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1028,48 +1111,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpSampleServer\\Program.cs",
-              "RelativeDocumentMoniker": "CSharpSampleServer\\Program.cs",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpSampleServer\\Program.cs",
-              "RelativeToolTip": "CSharpSampleServer\\Program.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAswFwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T06:45:01.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ClientPacketHandler.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\ClientPacketHandler.cpp",
-              "RelativeDocumentMoniker": "GameServer\\ClientPacketHandler.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\ClientPacketHandler.cpp",
-              "RelativeToolTip": "GameServer\\ClientPacketHandler.cpp",
-              "ViewState": "AgIAALcAAAAAAAAAAAAgwMcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-20T06:07:58.733Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CPacketBufferManager.cs",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpServerCore\\CPacketBufferManager.cs",
-              "RelativeDocumentMoniker": "CSharpServerCore\\CPacketBufferManager.cs",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpServerCore\\CPacketBufferManager.cs",
-              "RelativeToolTip": "CSharpServerCore\\CPacketBufferManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T03:30:39.335Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "CUserToken.cs",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpServerCore\\CUserToken.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\CSharpServerCore\\CUserToken.cs",
               "RelativeDocumentMoniker": "CSharpServerCore\\CUserToken.cs",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpServerCore\\CUserToken.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\CSharpServerCore\\CUserToken.cs",
               "RelativeToolTip": "CSharpServerCore\\CUserToken.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAjwGAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1077,11 +1123,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "CPacket.cs",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpServerCore\\CPacket.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\CSharpServerCore\\CPacket.cs",
               "RelativeDocumentMoniker": "CSharpServerCore\\CPacket.cs",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpServerCore\\CPacket.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\CSharpServerCore\\CPacket.cs",
               "RelativeToolTip": "CSharpServerCore\\CPacket.cs",
               "ViewState": "AgIAAFsAAAAAAAAAAAAuwHgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1089,11 +1135,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "LockQueue.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\LockQueue.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\LockQueue.cpp",
               "RelativeDocumentMoniker": "ServerCore\\LockQueue.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\LockQueue.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\LockQueue.cpp",
               "RelativeToolTip": "ServerCore\\LockQueue.cpp",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1101,11 +1147,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "TcpMsgResolver.cs",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpServerCore\\TcpMsgResolver.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\CSharpServerCore\\TcpMsgResolver.cs",
               "RelativeDocumentMoniker": "CSharpServerCore\\TcpMsgResolver.cs",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpServerCore\\TcpMsgResolver.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\CSharpServerCore\\TcpMsgResolver.cs",
               "RelativeToolTip": "CSharpServerCore\\TcpMsgResolver.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1113,11 +1159,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "StaticValues.cs",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpServerCore\\StaticValues.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\CSharpServerCore\\StaticValues.cs",
               "RelativeDocumentMoniker": "CSharpServerCore\\StaticValues.cs",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpServerCore\\StaticValues.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\CSharpServerCore\\StaticValues.cs",
               "RelativeToolTip": "CSharpServerCore\\StaticValues.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1128,20 +1174,20 @@
               "DocumentIndex": 98,
               "Title": "ServerSession.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpServerCore\\ServerSession.cs",
-              "RelativeDocumentMoniker": "CSharpServerCore\\ServerSession.cs",
+              "RelativeDocumentMoniker": "..\\..\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpServerCore\\ServerSession.cs",
               "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpServerCore\\ServerSession.cs",
-              "RelativeToolTip": "CSharpServerCore\\ServerSession.cs",
+              "RelativeToolTip": "..\\..\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpServerCore\\ServerSession.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T01:27:28.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "ConstBuffer.cs",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpServerCore\\ConstBuffer.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\CSharpServerCore\\ConstBuffer.cs",
               "RelativeDocumentMoniker": "CSharpServerCore\\ConstBuffer.cs",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\CSharpServerCore\\ConstBuffer.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\CSharpServerCore\\ConstBuffer.cs",
               "RelativeToolTip": "CSharpServerCore\\ConstBuffer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1149,11 +1195,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "Session.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Session.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Session.cpp",
               "RelativeDocumentMoniker": "ServerCore\\Session.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Session.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Session.cpp",
               "RelativeToolTip": "ServerCore\\Session.cpp",
               "ViewState": "AgIAADUBAAAAAAAAAAAAAG4BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1161,11 +1207,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "Service.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Service.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Service.cpp",
               "RelativeDocumentMoniker": "ServerCore\\Service.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Service.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Service.cpp",
               "RelativeToolTip": "ServerCore\\Service.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1173,11 +1219,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "FlatBufferReader.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\FlatBufferReader.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\FlatBufferReader.cpp",
               "RelativeDocumentMoniker": "ServerCore\\FlatBufferReader.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\FlatBufferReader.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\FlatBufferReader.cpp",
               "RelativeToolTip": "ServerCore\\FlatBufferReader.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1185,11 +1231,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "FlatBufferWriter.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\FlatBufferWriter.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\FlatBufferWriter.cpp",
               "RelativeDocumentMoniker": "ServerCore\\FlatBufferWriter.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\FlatBufferWriter.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\FlatBufferWriter.cpp",
               "RelativeToolTip": "ServerCore\\FlatBufferWriter.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1197,35 +1243,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Lobby.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\Lobby.cpp",
-              "RelativeDocumentMoniker": "GameServer\\Lobby.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\Lobby.cpp",
-              "RelativeToolTip": "GameServer\\Lobby.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-29T01:54:38.349Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Room.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\Room.cpp",
-              "RelativeDocumentMoniker": "GameServer\\Room.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\Room.cpp",
-              "RelativeToolTip": "GameServer\\Room.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-24T02:57:44.802Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "ClientSession.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\ClientSession.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\ClientSession.cpp",
               "RelativeDocumentMoniker": "GameServer\\ClientSession.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\ClientSession.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\ClientSession.cpp",
               "RelativeToolTip": "GameServer\\ClientSession.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1233,23 +1255,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ClientSessionManager.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\ClientSessionManager.cpp",
-              "RelativeDocumentMoniker": "GameServer\\ClientSessionManager.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\ClientSessionManager.cpp",
-              "RelativeToolTip": "GameServer\\ClientSessionManager.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-24T02:41:32.11Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "IocpCore.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\IocpCore.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\IocpCore.cpp",
               "RelativeDocumentMoniker": "ServerCore\\IocpCore.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\IocpCore.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\IocpCore.cpp",
               "RelativeToolTip": "ServerCore\\IocpCore.cpp",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1257,11 +1267,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "ThreadManager.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\ThreadManager.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\ThreadManager.cpp",
               "RelativeDocumentMoniker": "ServerCore\\ThreadManager.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\ThreadManager.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\ThreadManager.cpp",
               "RelativeToolTip": "ServerCore\\ThreadManager.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1269,11 +1279,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "pch.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\DummyClient\\pch.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\DummyClient\\pch.cpp",
               "RelativeDocumentMoniker": "DummyClient\\pch.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\DummyClient\\pch.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\DummyClient\\pch.cpp",
               "RelativeToolTip": "DummyClient\\pch.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1281,23 +1291,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "GameServer.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\GameServer.cpp",
-              "RelativeDocumentMoniker": "GameServer\\GameServer.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\GameServer.cpp",
-              "RelativeToolTip": "GameServer\\GameServer.cpp",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAMsAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-22T01:21:19.449Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "JobTimer.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\JobTimer.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\JobTimer.cpp",
               "RelativeDocumentMoniker": "ServerCore\\JobTimer.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\JobTimer.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\JobTimer.cpp",
               "RelativeToolTip": "ServerCore\\JobTimer.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1305,11 +1303,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "ServerSession.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\DummyClient\\ServerSession.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\DummyClient\\ServerSession.cpp",
               "RelativeDocumentMoniker": "DummyClient\\ServerSession.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\DummyClient\\ServerSession.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\DummyClient\\ServerSession.cpp",
               "RelativeToolTip": "DummyClient\\ServerSession.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1317,11 +1315,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "JobQueue.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\JobQueue.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\JobQueue.cpp",
               "RelativeDocumentMoniker": "ServerCore\\JobQueue.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\JobQueue.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\JobQueue.cpp",
               "RelativeToolTip": "ServerCore\\JobQueue.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1329,7 +1327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "gshandlereh4.cpp",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\x64\\gshandlereh4.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\x64\\gshandlereh4.cpp",
@@ -1341,11 +1339,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "pch.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\pch.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\pch.cpp",
               "RelativeDocumentMoniker": "GameServer\\pch.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\GameServer\\pch.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\GameServer\\pch.cpp",
               "RelativeToolTip": "GameServer\\pch.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1353,11 +1351,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "DBConnection.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\DBConnection.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\DBConnection.cpp",
               "RelativeDocumentMoniker": "ServerCore\\DBConnection.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\DBConnection.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\DBConnection.cpp",
               "RelativeToolTip": "ServerCore\\DBConnection.cpp",
               "ViewState": "AgIAAOkAAAAAAAAAAAAwwBcBAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1365,11 +1363,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "DBConnectionPool.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\DBConnectionPool.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\DBConnectionPool.cpp",
               "RelativeDocumentMoniker": "ServerCore\\DBConnectionPool.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\DBConnectionPool.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\DBConnectionPool.cpp",
               "RelativeToolTip": "ServerCore\\DBConnectionPool.cpp",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAADMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1377,11 +1375,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "SendBuffer.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\SendBuffer.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\SendBuffer.cpp",
               "RelativeDocumentMoniker": "ServerCore\\SendBuffer.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\SendBuffer.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\SendBuffer.cpp",
               "RelativeToolTip": "ServerCore\\SendBuffer.cpp",
               "ViewState": "AgIAAEgAAAAAAAAAAAAAAFQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1389,11 +1387,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "DBBind.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\DBBind.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\DBBind.cpp",
               "RelativeDocumentMoniker": "ServerCore\\DBBind.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\DBBind.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\DBBind.cpp",
               "RelativeToolTip": "ServerCore\\DBBind.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1401,11 +1399,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "GlobalQueue.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\GlobalQueue.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\GlobalQueue.cpp",
               "RelativeDocumentMoniker": "ServerCore\\GlobalQueue.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\GlobalQueue.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\GlobalQueue.cpp",
               "RelativeToolTip": "ServerCore\\GlobalQueue.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1413,11 +1411,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "Job.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Job.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Job.cpp",
               "RelativeDocumentMoniker": "ServerCore\\Job.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Job.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Job.cpp",
               "RelativeToolTip": "ServerCore\\Job.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1425,11 +1423,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "Allocator.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Allocator.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Allocator.cpp",
               "RelativeDocumentMoniker": "ServerCore\\Allocator.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Allocator.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Allocator.cpp",
               "RelativeToolTip": "ServerCore\\Allocator.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1437,11 +1435,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "CoreTLS.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\CoreTLS.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\CoreTLS.cpp",
               "RelativeDocumentMoniker": "ServerCore\\CoreTLS.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\CoreTLS.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\CoreTLS.cpp",
               "RelativeToolTip": "ServerCore\\CoreTLS.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1449,11 +1447,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 67,
               "Title": "RecvBuffer.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\RecvBuffer.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\RecvBuffer.cpp",
               "RelativeDocumentMoniker": "ServerCore\\RecvBuffer.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\RecvBuffer.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\RecvBuffer.cpp",
               "RelativeToolTip": "ServerCore\\RecvBuffer.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1461,11 +1459,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "SocketUtils.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\SocketUtils.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\SocketUtils.cpp",
               "RelativeDocumentMoniker": "ServerCore\\SocketUtils.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\SocketUtils.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\SocketUtils.cpp",
               "RelativeToolTip": "ServerCore\\SocketUtils.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1473,11 +1471,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 69,
               "Title": "NetAddress.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\NetAddress.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\NetAddress.cpp",
               "RelativeDocumentMoniker": "ServerCore\\NetAddress.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\NetAddress.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\NetAddress.cpp",
               "RelativeToolTip": "ServerCore\\NetAddress.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1485,11 +1483,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 71,
               "Title": "Listener.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Listener.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Listener.cpp",
               "RelativeDocumentMoniker": "ServerCore\\Listener.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Listener.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Listener.cpp",
               "RelativeToolTip": "ServerCore\\Listener.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1497,11 +1495,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 73,
               "Title": "IocpEvent.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\IocpEvent.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\IocpEvent.cpp",
               "RelativeDocumentMoniker": "ServerCore\\IocpEvent.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\IocpEvent.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\IocpEvent.cpp",
               "RelativeToolTip": "ServerCore\\IocpEvent.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1509,11 +1507,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 76,
               "Title": "Memory.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Memory.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Memory.cpp",
               "RelativeDocumentMoniker": "ServerCore\\Memory.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Memory.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Memory.cpp",
               "RelativeToolTip": "ServerCore\\Memory.cpp",
               "ViewState": "AgIAADAAAAAAAAAAAIAwwFgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1521,11 +1519,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 82,
               "Title": "Lock.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Lock.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Lock.cpp",
               "RelativeDocumentMoniker": "ServerCore\\Lock.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\Lock.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\Lock.cpp",
               "RelativeToolTip": "ServerCore\\Lock.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1533,11 +1531,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 77,
               "Title": "CoreGlobal.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\CoreGlobal.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\CoreGlobal.cpp",
               "RelativeDocumentMoniker": "ServerCore\\CoreGlobal.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\CoreGlobal.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\CoreGlobal.cpp",
               "RelativeToolTip": "ServerCore\\CoreGlobal.cpp",
               "ViewState": "AgIAABYAAAAAAAAAAAAUwDEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1545,11 +1543,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 84,
               "Title": "DeadLockProfiler.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\DeadLockProfiler.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\DeadLockProfiler.cpp",
               "RelativeDocumentMoniker": "ServerCore\\DeadLockProfiler.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\DeadLockProfiler.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\DeadLockProfiler.cpp",
               "RelativeToolTip": "ServerCore\\DeadLockProfiler.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1557,11 +1555,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 89,
               "Title": "MemoryPool.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\MemoryPool.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\MemoryPool.cpp",
               "RelativeDocumentMoniker": "ServerCore\\MemoryPool.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\MemoryPool.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\MemoryPool.cpp",
               "RelativeToolTip": "ServerCore\\MemoryPool.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1569,11 +1567,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 90,
               "Title": "RefCounting.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\RefCounting.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\RefCounting.cpp",
               "RelativeDocumentMoniker": "ServerCore\\RefCounting.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\RefCounting.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\RefCounting.cpp",
               "RelativeToolTip": "ServerCore\\RefCounting.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1581,11 +1579,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 94,
               "Title": "CorePch.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\CorePch.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\CorePch.cpp",
               "RelativeDocumentMoniker": "ServerCore\\CorePch.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\CorePch.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\CorePch.cpp",
               "RelativeToolTip": "ServerCore\\CorePch.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1593,11 +1591,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 93,
               "Title": "pch.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\pch.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\pch.cpp",
               "RelativeDocumentMoniker": "ServerCore\\pch.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Portfolio_UnityGame\\(1)ServerCoreModel\\ServerCore\\pch.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\FlyingMokey\\(1)ServerCoreModel\\ServerCore\\pch.cpp",
               "RelativeToolTip": "ServerCore\\pch.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

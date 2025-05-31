@@ -20,14 +20,6 @@ void Room::OnExitGame(ClientSessionRef client)
 {
 	_clients.erase(client);
 	client->OnExitRoom();
-}
-
-void Room::BackToLobby(ClientSessionRef client)
-{
-	_clients.erase(client);
-	client->OnExitRoom();
-
-	GLobby->DoAsync(&Lobby::AcceptClient, client);
 
 	if (_clients.size() <= 0)
 	{
@@ -37,6 +29,24 @@ void Room::BackToLobby(ClientSessionRef client)
 	{
 		InformRoomInfos();
 	}
+
+}
+
+void Room::BackToLobby(ClientSessionRef client)
+{
+	_clients.erase(client);
+	client->OnExitRoom();
+
+	if (_clients.size() <= 0)
+	{
+		GLobby->DoAsync(&Lobby::RemoveRoom, _roomId);
+	}
+	else
+	{
+		InformRoomInfos();
+	}
+
+	GLobby->DoAsync(&Lobby::AcceptClient, client);
 }
 
 void Room::Test_Chat(uint64 sendingPlayersId, BYTE* buffer, int32 len)

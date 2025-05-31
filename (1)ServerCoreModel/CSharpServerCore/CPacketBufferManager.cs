@@ -12,9 +12,13 @@ namespace CSharpServerCore
         private static object lock_packetPool = new object();
 
 #if __CPACKET_POOL_COUNT_CHECK
+
+#endif
         public delegate void PoolCountChecker(int poolCount); // FOR_DEBUG
         public static PoolCountChecker poolCountChecker; // FOR_DEBUG
-#endif
+
+
+
         public static void Initialize(int capacity)
         {
             _poolCapacity = capacity;

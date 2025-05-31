@@ -200,9 +200,11 @@ void DoMainThreadWorkJob(ServerServiceRef& service)
 		if (GetTickCount64() > mainThreadTickCount + 1'000)
 		{
 			{
-				cout << "Total(" << GSessionManager->PlayersCount() << ") / " 
-					<< "Lobby(" << GLobby->GetLobbysPlayersCount() << ") / " 
-					<< "Rooms(" << GLobby->GetAllRoomsPlayersCount() << ")" << endl;
+				cout << "Total(" << GSessionManager->PlayersCount() << ") / "
+					<< "Lobby(" << GLobby->GetLobbysPlayersCount() << ") / "
+					<< "RoomsAllPlayer(" << GLobby->GetAllRoomsPlayersCount() << ") / "
+					<< "RoomCount(" << GLobby->RoomCount() << ") "
+					<< endl;
 			}
 
 			mainThreadTickCount = GetTickCount64();

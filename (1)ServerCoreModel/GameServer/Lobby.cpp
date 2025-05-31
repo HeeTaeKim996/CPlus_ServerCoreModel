@@ -14,6 +14,13 @@ void Lobby::Init()
 	GLobby = MakeShared<Lobby>();
 }
 
+Lobby::Lobby()
+{
+	{ // For Develop Teest
+		_rooms[9999] = ObjectPool<Room>::MakeShared(9999);
+	}
+}
+
 void Lobby::AcceptClient(ClientSessionRef client)
 {
 	_clients.insert(client);

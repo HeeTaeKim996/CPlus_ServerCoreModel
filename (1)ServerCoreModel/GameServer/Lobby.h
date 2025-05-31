@@ -8,6 +8,8 @@ public:
 
 
 public:
+	Lobby();
+
 	void AcceptClient(ClientSessionRef client);
 	void RemoveClient(ClientSessionRef client);
 	void MakeRoom(ClientSessionRef client);
@@ -22,7 +24,7 @@ public:
 public:
 	uint64 GetLobbysPlayersCount() { return _clients.size(); }
 	uint64 GetAllRoomsPlayersCount();
-
+	uint32 RoomCount() { return _rooms.size(); }
 
 
 private:

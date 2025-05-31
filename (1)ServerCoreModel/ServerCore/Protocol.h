@@ -22,7 +22,7 @@ enum : uint16
 	S_TEST,
 
 	S_ENTER_GAME,
-	
+
 	S_INFORM_LOBBY_INFOS,
 
 	S_INFORM_ROOM_INFOS,
